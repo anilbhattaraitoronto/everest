@@ -1,0 +1,33 @@
+The Everest Magazine App will have the following Features
+
+1. On the Front End
+
+-Responsive, mobile first design based on site theme colors;
+-user registration and login option for readers to comment on posts;
+-admin login for staff;
+
+2. Administration Interface
+Admin Staff, once authenticated through front-end login, can do the following:
+-Create different posts(e.g., news items, opinion items, event posts, and advertisement);
+-Edit those posts;
+-Delete those posts;
+-Delete registered users
+
+Admin Staff CANNOT DO the following:
+-see users' password. it will be highly encrypted.
+-as said above, however, admin can remove users by deleting them if needed. 
+
+3. App documentation for Admin Staff
+-Documentation will tackle basic operational issues in managing the apps. I will also provide source code, either through github, or file transfer, to designated person. If Needed, I can explain some part of the codes if admin staff need it.
+-Basic operational issues include:
+-how to add, edit, delete posts/users. These tasks will be easy with Django framework that I will be using in building the website. But I will provide detailed documentation of the step-by-step process involved in these tasks. 
+
+4. Occassional maintenance
+-I will be available for maintenance if necessary, but I will do full testing and therefore, barring major hacking incident in the host server, the disruptions should be minimal;
+-Based on the need, we can also scale up different aspects of the site.
+
+Please let me know if you would like further clarification or want to add features. 
+
+Thank you and I am quite excited to design and build this website from the ground up;
+:-)
+
